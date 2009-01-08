@@ -2,5 +2,5 @@ Watch and rank links coming from twitter's public timeline. Currently this doesn
 
 Requires the following non-standard python libs: (install with easy_install)
  * simplejson
- * functional, and operator
+ * functional
  * sqlalchemy
