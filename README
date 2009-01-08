@@ -1,0 +1,6 @@
+Watch and rank links coming from twitter's public timeline. Currently this doesn't really work all that well, as we can only get 20 tweets a minute, but it's an idea.
+
+Requires the following non-standard python libs: (install with easy_install)
+ * simplejson
+ * functional, and operator
+ * sqlalchemy
